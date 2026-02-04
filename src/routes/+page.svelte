@@ -85,17 +85,12 @@
 		<a href="/" class="flex items-center gap-2 text-black hover:text-sky-600 transition-colors">
 			<span class="text-2xl font-bold tracking-tight">Fleet</span>
 		</a>
-		<div class="flex items-center gap-8">
-			<nav class="hidden md:flex items-center gap-8 text-sm font-medium">
-				<a href="#platform" class="hover:text-black transition-colors">Platform</a>
-				<a href="#customers" class="hover:text-black transition-colors">Customers</a>
-				<a href="https://docs.fleetai.com" class="hover:text-black transition-colors">Docs</a>
-				<a href="https://status.fleetai.com" class="hover:text-black transition-colors">Status</a>
-			</nav>
-			<button class="bg-black text-white px-6 py-2 rounded-full text-sm font-medium hover:bg-gray-800 transition-all duration-200 hover:scale-105">
-				Login
-			</button>
-		</div>
+		<nav class="hidden md:flex items-center gap-8 text-sm font-medium">
+			<a href="#platform" class="hover:text-black transition-colors">Platform</a>
+			<a href="#customers" class="hover:text-black transition-colors">Customers</a>
+			<a href="https://docs.fleetai.com" class="hover:text-black transition-colors">Docs</a>
+			<a href="https://status.fleetai.com" class="hover:text-black transition-colors">Status</a>
+		</nav>
 	</header>
 
 	<!-- Hero Section - ALREADY CUSTOMIZED, DO NOT MODIFY -->
@@ -111,7 +106,7 @@
 			<div class="flex justify-end mt-8 md:mt-10">
 				<div class="w-full md:w-1/2 pl-1">
 					<p class="text-2xl md:text-3xl lg:text-4xl font-medium leading-tight tracking-tight max-w-2xl text-[#64748b]">
-						High-fidelity simulated environments enabling AI agent to master real-world tasks at scale...
+						High-fidelity simulated environments enabling AI agent to master real-world tasks at scale.
 					</p>
 				</div>
 			</div>
@@ -119,7 +114,7 @@
 
 		<!-- Hero Image Section -->
 		<div class="relative w-full h-[50vh] md:h-[75vh] overflow-hidden">
-			<img src="https://imolwncbqxugevwmleed.supabase.co/storage/v1/object/public/public-assets/hero-images/4dfc2705-6ada-4e79-ab47-9c1484a7e4eb/hero-2-img-0-1770236311000.png" alt="Fleet high-fidelity virtual training environment" class="w-full h-full object-cover object-center">
+			<img src="/generated/image-abstract-red-rothko-painting-with-deep-c-1770241671132-0.webp" alt="Abstract red Rothko painting" class="w-full h-full object-cover object-center">
 			
 			<!-- Floating Action Button -->
 			<div class="absolute bottom-8 left-1/2 transform -translate-x-1/2 z-10">
