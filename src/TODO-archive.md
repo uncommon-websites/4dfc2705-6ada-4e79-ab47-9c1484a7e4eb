@@ -28,3 +28,29 @@
 - [ ] Update hero text
 
 ──────────────────────────────────────────────────
+
+## Session: 2026-02-04T21:57:02.661Z
+
+<!-- DO NOT EDIT - Managed by todo_list tool -->
+<!-- Updated: 2026-02-04T21:56:45.922Z -->
+
+# Current Todo List State
+
+- [ ] Add login button to header
+- [ ] Make Rothko painting fill frame
+- [ ] Update description text
+
+──────────────────────────────────────────────────
+
+## Session: 2026-02-04T22:07:03.900Z
+
+<!-- DO NOT EDIT - Managed by todo_list tool -->
+<!-- Updated: 2026-02-04T22:06:45.766Z -->
+
+# Current Todo List State
+
+- [ ] Add login button to header
+- [ ] Make Rothko painting fill frame
+- [ ] Update description text
+
+──────────────────────────────────────────────────
