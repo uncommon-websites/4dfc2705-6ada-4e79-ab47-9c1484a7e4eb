@@ -1,8 +1,8 @@
 <!-- DO NOT EDIT - Managed by todo_list tool -->
-<!-- Updated: 2026-02-04T22:07:11.493Z -->
+<!-- Updated: 2026-02-05T21:03:55.148Z -->
 
 # Current Todo List State
 
-- [x] Add login button to header
-- [x] Make Rothko painting fill frame
+- [x] Remove login from header
 - [x] Update description text
+- [x] Change title to Fleets

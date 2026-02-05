@@ -90,7 +90,6 @@
 			<a href="#customers" class="hover:text-black transition-colors">Customers</a>
 			<a href="https://docs.fleetai.com" class="hover:text-black transition-colors">Docs</a>
 			<a href="https://status.fleetai.com" class="hover:text-black transition-colors">Status</a>
-			<a href="https://app.fleetai.com/login" class="bg-black text-white px-4 py-2 rounded-full hover:bg-gray-800 transition-colors">Login</a>
 		</nav>
 	</header>
 
@@ -100,14 +99,14 @@
 		<div class="flex flex-col mb-12 md:mb-16">
 			<!-- Main Heading -->
 			<h1 class="text-[15.5vw] leading-[0.8] font-bold tracking-tighter text-black -ml-[0.05em]">
-				Fleet
+				Fleets
 			</h1>
 			
 			<!-- Subheading -->
 			<div class="flex justify-end mt-8 md:mt-10">
 				<div class="w-full md:w-1/2 pl-1">
 					<p class="text-2xl md:text-3xl lg:text-4xl font-medium leading-tight tracking-tight max-w-2xl text-[#64748b]">
-						High-fidelity simulated environments enabling AI agent to master real-world tasks at scale...
+						High-fidelity simulated environments enabling AI agent to master real-world tasks at scale.
 					</p>
 				</div>
 			</div>
